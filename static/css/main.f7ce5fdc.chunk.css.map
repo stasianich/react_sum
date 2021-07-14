@@ -1,0 +1,1 @@
+{"version":3,"sources":["Sum.scss"],"names":[],"mappings":"AAAA,KACE,cAAe,CACf,eAAiB,CAEjB,kBACE,UAAW,CACZ,mBAGC,WAAY,CACb,aAGC,SAAU","file":"main.f7ce5fdc.chunk.css","sourcesContent":[".Sum {\n  font-size: 24px;\n  font-weight: bold;\n\n  &__first-digit {\n    color: blue;\n  }\n\n  &__second-digit {\n    color: green;\n  }\n\n  &__result {\n    color: red;\n  }\n}"]}
